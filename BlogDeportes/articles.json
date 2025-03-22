@@ -1,0 +1,34 @@
+{
+    "mlb": [
+        {
+            "title": "La última victoria de los Yankees",
+            "content": "Resumen de la victoria de los Yankees...",
+            "image": "https://example.com/yankees-victory.jpg",
+            "video": "https://www.youtube.com/embed/example_video_id",
+            "link": "article.html?id=1"
+        },
+        {
+            "title": "Red Sox en racha",
+            "content": "Los Boston Red Sox han ganado 5 partidos consecutivos...",
+            "image": "https://example.com/redsox-rachas.jpg",
+            "video": "https://www.youtube.com/embed/example_video_id_2",
+            "link": "article.html?id=2"
+        }
+    ],
+    "nba": [
+        {
+            "title": "Los Lakers dominan el partido",
+            "content": "Resumen del partido entre Lakers y Warriors...",
+            "image": "https://example.com/lakers-game.jpg",
+            "video": "https://www.youtube.com/embed/example_video_id_3",
+            "link": "article.html?id=3"
+        },
+        {
+            "title": "Giannis y su actuación estelar",
+            "content": "Giannis Antetokounmpo tuvo una actuación increíble...",
+            "image": "https://example.com/giannis-estrella.jpg",
+            "video": "https://www.youtube.com/embed/example_video_id_4",
+            "link": "article.html?id=4"
+        }
+    ]
+}
